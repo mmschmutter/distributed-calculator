@@ -1,0 +1,16 @@
+insert first 10
+insert second 5
+insert third 1
+insert fourth 3
+insert fifth 2
+retrieve first
+retrieve fifth
++ first second fourth fifth
+- first second third
+* first fourth fifth
+/ first fifth third fifth
+delete first
+delete second
+delete third
+delete fourth
+delete fifth
